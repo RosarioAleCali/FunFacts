@@ -1,4 +1,4 @@
-# FunFacts
+# Fun Facts
 
 Fun Facts is an App I developed following an introductory course on Team Treehouse about Android App Development.
 As an introductory course the app itself is very simple but it teaches concepts and techniques about
